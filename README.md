@@ -20,3 +20,9 @@ git clone https://github.com/ALI-JUTT/Dumper
 cd $HOME/Dumper
 
 python Dump.py
+
+
+NOTE: I M NOT RESPONSIBLE FOR AMY MISS USE 😼
+ 
+
+THANKS FOR USING Dumper
