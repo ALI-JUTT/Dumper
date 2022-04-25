@@ -9,8 +9,6 @@ pkg install python
 
 pkg install git curl openssl
 
-termux-setup-storage
-
 pip install requests mechanize
 
 pip install bs4 futures
