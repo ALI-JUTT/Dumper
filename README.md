@@ -25,4 +25,4 @@ python Dump.py
 # NOTE: I M NOT RESPONSIBLE FOR AMY MISS USE 😼
  
 
-THANKS FOR USING Dumper
+# THANKS FOR USING Dumper
